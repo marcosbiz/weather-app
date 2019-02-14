@@ -12,7 +12,8 @@ Asynchronous Node.js (Weather App)
 
 #### Version with callback functions:
 
-```node app.js -h
+```
+node app.js -h
 Opções:
   --version      Exibe a versão                                       [booleano]
   -a, --address  Address to fetch weather for             [string] [obrigatório]
@@ -21,7 +22,8 @@ Opções:
 
 #### Version with promises:
 
-```node app-promise.js -h
+```
+node app-promise.js -h
 app-promise.js [comando]
 
 Comandos:
